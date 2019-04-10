@@ -8,4 +8,4 @@
 <!-- #### :book: Git.入门 -->
 * [Git 介绍](./Git/git-help-01.md) | 2019.04
 * [Git 安装](./Git/git-help-02.md) | 2019.04
-* [Git 创建版本库](./Git/git-help-03.md) | 2019.04
+* [Git 配置远程仓库](./Git/git-help-03.md) | 2019.04
