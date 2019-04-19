@@ -25,3 +25,5 @@
 * [使用 MutationObserver 跟踪 DOM 的变化](https://segmentfault.com/a/1190000017832686) | 2019.01
 * [渲染引擎和优化其性能的技巧](https://segmentfault.com/a/1190000017872125#articleHeader0) | 2019.01
 * [深入网络层 + 如何优化性能和安全](https://segmentfault.com/a/1190000017903157) | 2019.01
+* [CSS 和 JS 动画底层原理及如何优化它们的性能](https://segmentfault.com/a/1190000017927665) | 2019.01
+* [解析、抽象语法树（AST）+ 提升编译速度5个技巧](https://segmentfault.com/a/1190000017961297) | 2019.01
