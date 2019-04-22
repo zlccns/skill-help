@@ -27,3 +27,8 @@
 * [深入网络层 + 如何优化性能和安全](https://segmentfault.com/a/1190000017903157) | 2019.01
 * [CSS 和 JS 动画底层原理及如何优化它们的性能](https://segmentfault.com/a/1190000017927665) | 2019.01
 * [解析、抽象语法树（AST）+ 提升编译速度5个技巧](https://segmentfault.com/a/1190000017961297) | 2019.01
+* [深入类和继承内部原理+Babel和 TypeScript 之间转换](https://segmentfault.com/a/1190000017992671) | 2019.01
+* [存储引擎+如何选择合适的存储API](https://segmentfault.com/a/1190000018020391) | 2019.01
+* [Shadow DOM 的内部结构+如何编写独立的组件](https://segmentfault.com/a/1190000018033709) | 2019.01
+* [WebRTC 和对等网络的机制](https://segmentfault.com/a/1190000018046292) | 2019.01
+* [编写自己的 Web 开发框架 + React 及其虚拟 DOM 原理](https://segmentfault.com/a/1190000018059329) | 2019.01
