@@ -32,3 +32,4 @@
 * [Shadow DOM 的内部结构+如何编写独立的组件](https://segmentfault.com/a/1190000018033709) | 2019.01
 * [WebRTC 和对等网络的机制](https://segmentfault.com/a/1190000018046292) | 2019.01
 * [编写自己的 Web 开发框架 + React 及其虚拟 DOM 原理](https://segmentfault.com/a/1190000018059329) | 2019.01
+* [模块的构建以及对应的打包工具](https://segmentfault.com/a/1190000018140746#articleHeader0) | 2019.02
