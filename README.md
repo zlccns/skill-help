@@ -8,9 +8,11 @@
 <!-- #### :book: Git.入门 -->
 * [Git 介绍](./Git/git-help-01.md) | 2019.04
 * [Git 安装](./Git/git-help-02.md) | 2019.04
-* [Git 配置远程仓库](./Git/git-help-03.md) | 2019.04
+* [Git 创建版本库](./Git/git-help-03.md) | 2019.04
+* [Git 配置远程仓库](./Git/git-help-04.md) | 2019.04
 * [Git 常用命令]
 * [Git 常见错误备注]
+
 
 #### :book: JavaScript工作原理.x
 * [引擎，运行时和调用堆栈的概述](https://segmentfault.com/a/1190000017352941) | 2018.12
